@@ -1,0 +1,5 @@
+<resources>
+
+    <string name="app_name">AndroidWoman</string>
+	<string name="footer_login_page">Made for you by Polytech</string>
+</resources>
