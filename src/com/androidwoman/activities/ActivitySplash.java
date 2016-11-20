@@ -1,4 +1,4 @@
-package com.activities;
+package com.androidwoman.activities;
 
 import com.androidwoman.R;
 
